@@ -86,6 +86,7 @@ Jakub Bojanek
 
 ### OCFS
 ### GPFS
+(Michał Polak, Artur Dudka)
 
 ### [System Lustre](SystemLustre.md)
 (Artur Jarzynka, Adam Pakosz, Przemysław Kasperkiewicz)
